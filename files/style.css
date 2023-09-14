@@ -1,0 +1,30 @@
+
+
+
+p{
+    color: red;
+    font-size: large;
+    background-color: gray;
+    color: rgb(red, green, blue);
+}
+
+.top1{
+    background-color: green;
+}
+
+table,tr,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+body{
+    background: url("/img/image.jpg");
+    background-size:1300px 850px ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h2{
+    border: 2px dotted green;
+}

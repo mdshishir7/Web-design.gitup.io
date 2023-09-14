@@ -1,0 +1,56 @@
+Elements
+Attributes
+Heading
+Paragraph
+Style
+Formatting-->(a+b)<sup>2</sup>-----(a+b)2
+H<sub>2</sub>O------------H2O
+
+Quotation-->  <abbr title="Facebook">Follow me</abbr>
+Comment--->  <!------This is navbar site----->
+CSS------->we can use css link in hrml heading 
+           <link rel="stylesheet" href="style.css">
+ Note: Heading e internal css or external css deoua thake and body er moddhe jodi abar css lekha hoy
+       tahole body er css ke priroty deoua hoy.
+
+Link--->  <a href="nextpage.html">Next Page</a>
+            <a href="http://www.facebook.com"><abbr title="Facebook">Follow me</abbr></a>
+
+Image---><img src="images/shishir.jpg" alt="Random image" style="width: auto; height: auto;">
+Table
+List
+Block and Inline
+Id and class----> Id unique, Id multiple time use kora jabe na, class common mane sob jaiygay eki class bosano jay
+Iframe--> onno website ke nijer website e show korte iframe use hoy
+        lorem1000 ctrl+z
+         <iframe></iframe>
+Javascripts--->
+
+Responsive Website--> <meta charset="UTF-8">
+                     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                      <p style="font-size:5vw> Responsive font </p>
+
+
+Form---->Get method---> amora jokon normol data niya kaj korbo tokhon get, mane amora website ei
+                        data gula show korbo, jemon date time....
+         Post method---> amora jokhon -onk data mane username, id, address, amount etc niya kaj korbo seta 
+                          POST method hobe
+         action= amora file er data backend jekane save korte cai sei ta bosbe
+
+Form Element-->
+---------------
+input-----user der information input neoua hoy
+select-->value select korar jonno option akare dekhay
+textarea---> onk beshi details likhte hoile
+datalist---
+autofocous---
+
+video----<video height="450px" width="1000px" controls>
+    <source src="videos/manager.mp4" type="video/mp4">
+  </video>
+
+
+
+
+
+
